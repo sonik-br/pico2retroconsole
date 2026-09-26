@@ -304,3 +304,6 @@ Buttons to Pico
 | 16   | R2     |
 | 17   | L3     |
 | 18   | R3     |
+
+## Credits
+Special thanks to Jorge Charrua for helping with testing and ideas.
